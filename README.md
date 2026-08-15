@@ -105,8 +105,7 @@ A citation-grounded PDF question answering system built with Python, FAISS, SQLi
 
 ## 📈 GitHub Stats
 
-<p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=nishant-netizen524&theme=neon&mode=light" /> <img src="https://www.gitskins.com/api/section/stats?username=nishant-netizen524&theme=neon" alt="nishant-netizen524 stats section" /> </picture> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nishant-netizen524&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" /> <img src="https://streak-stats.demolab.com/?user=nishant-netizen524&theme=tokyonight" alt="GitHub Streak" height="165" /> </p>
-
+<p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=nishant-netizen524&theme=neon&mode=light" /> <img src="https://www.gitskins.com/api/section/stats?username=nishant-netizen524&theme=neon" alt="nishant-netizen524 stats section" /> </picture> </p> <p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=nishant-netizen524&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" /> <img src="https://streak-stats.demolab.com/?user=nishant-netizen524&theme=tokyonight" alt="GitHub Streak" height="165" /> </p>
 ---
 
 ## 🗓️ Contribution Heatmap
