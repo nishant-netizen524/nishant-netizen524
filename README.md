@@ -52,7 +52,7 @@ Key areas I am exploring:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat&logo=java&logoColor=black)
 
 **AI / LLM Engineering**
 
@@ -105,24 +105,13 @@ A citation-grounded PDF question answering system built with Python, FAISS, SQLi
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=nishant-netizen524&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=nishant-netizen524&theme=neon" alt="nishant-netizen524 stats section" />
-  </picture>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishant-netizen524&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-netizen524&theme=tokyonight" alt="GitHub Streak" height="165" />
-</p>
+<p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=nishant-netizen524&theme=neon&mode=light" /> <img src="https://www.gitskins.com/api/section/stats?username=nishant-netizen524&theme=neon" alt="nishant-netizen524 stats section" /> </picture> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nishant-netizen524&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" /> <img src="https://streak-stats.demolab.com/?user=nishant-netizen524&theme=tokyonight" alt="GitHub Streak" height="165" /> </p>
 
 ---
 
 ## 🗓️ Contribution Heatmap
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishant-netizen524&theme=react-dark" alt="Contribution Heatmap" />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishant-netizen524&theme=react-dark" alt="Contribution Heatmap" /> </p>
 
 ---
 
