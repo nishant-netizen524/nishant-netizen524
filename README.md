@@ -24,9 +24,7 @@ When I'm not studying or writing code, you can find me exploring new AI tools, p
   <a href="https://kaggle.com/nishantsaini02567" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
-  <a href="mailto:nishanttoperofalwar@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-alt.svg" alt="Email" height="30" width="40" />
-  </a>
+
 </p>
 
 <br>
