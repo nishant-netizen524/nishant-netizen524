@@ -1,11 +1,7 @@
-# nishant-netizen524
 
-> Memorable developer positioning.
-
-**Theme:** Neon · **Style:** Creative · **Agent:** Full-Stack Engineer
 
 ## Header
-Hi, I'm **nishant-netizen524**. This README is tuned for **personal brand** with a Neon visual system.
+Hi, I'm **Nishant Saini**.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=nishant-netizen524&theme=neon&mode=light" />
@@ -13,7 +9,7 @@ Hi, I'm **nishant-netizen524**. This README is tuned for **personal brand** with
   </picture>
 </p>
 ## About Me
-Shapes the short profile story and positioning.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=nishant-netizen524&theme=neon&mode=light" />
